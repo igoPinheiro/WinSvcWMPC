@@ -1,0 +1,10 @@
+{
+  "emailemi": "Informe aqui o email emissor",
+  "emailrem": "Informe aqui o email do remetente",
+  "pass": "senha unica google",
+  "pcname": "Nome do PC",
+  "intervalwinsvc": 600000,
+  "port": 587,
+  "urilocal": "http://172.16.20.200/apia9dd/",
+  "uriext": "http://e7290d0ee117.sn.mynetname.net:1002/apia9dd/"
+}
